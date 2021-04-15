@@ -1,0 +1,7 @@
+Origin:M2RV 
+Label: M2RV 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo
