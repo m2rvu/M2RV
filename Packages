@@ -29,7 +29,7 @@ Section: Tweaks
 Depiction: https://archive.org/download/unicorn_202104/Unicorn.txt
 Name: Unicorn
 
-Package: net.limneos.bioprotectx (4.5-14)
+Package: net.limneos.bioprotectx 
 Version:4.5-14
 Architecture: iphoneos-arm
 Maintainer: MARV
