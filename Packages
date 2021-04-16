@@ -60,3 +60,19 @@ SHA256: f841df13f2b89eab695904dc3c679e6ec4be6380ea20c6bbb8464be9f20921df
 Section: Tweaks
 Depiction: https://archive.org/download/cy-down/CyDown.txt
 Name: CyDown
+
+Package: com.stevsarm.biscuit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: 
+Conflicts: 
+Filename: com.stevsarm.biscuit_1.0_iphoneos-arm.deb
+Icon: 
+Size: 
+MD5sum: 379cfbe1e1b1de45beca3fb575e99ede
+SHA1: 84050abb0f546c844b9616cf85631e36b9b0145d
+SHA256: 49ee8c43b489ab7d13f1a8f7b671de0682c98992a549f12a07fdbf5e744bee5c
+Section: Tweaks
+Depiction: https://i.top4top.io/p_1931gddlu1.png
+Name: Biscuit
